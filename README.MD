@@ -1,1 +1,3 @@
 # SomeText
+
+git is nice
